@@ -3,4 +3,4 @@ project(LearningCpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(LearningCpp main.cpp)
+add_executable(LearningCpp Lesson1.cpp)
