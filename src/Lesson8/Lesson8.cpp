@@ -42,6 +42,6 @@
 //
 //    base_heap->print(); // ->  arrow operator is used to dereference and call the function
 //
-//    delete base_heap;
+//    delete base_heap;//Memory must be freed manual when allocating in the heap.
 //}
 
