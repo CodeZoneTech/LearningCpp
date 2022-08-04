@@ -15,6 +15,5 @@
 //
 //    // std::cout can be used for printing string without formatting
 //
-//    char* out = "This uses printf";
-//    std::printf("%s", out); // A char pointer is used to pass a string to printf
+//    std::printf("%s", "\nThis uses printf"); // A char pointer is used to pass a string to printf
 //}
